@@ -75,7 +75,7 @@ For me, code is secondary; understanding the nature of reality is primary. I foc
 
 <br>
 
-<h2 align="left">📊 GitHub Stats</h2>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-edward-ai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="stats graph" />
