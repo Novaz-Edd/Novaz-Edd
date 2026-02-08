@@ -69,18 +69,11 @@ For me, code is secondary; understanding the nature of reality is primary. I foc
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Render](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 
 <br>
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-edward-ai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edward-ai&layout=compact&theme=tokyonight&hide=jupyter%20notebook&langs_count=6&hide_border=true" height="180" alt="languages graph" />
-</div>
 
 <br>
 
