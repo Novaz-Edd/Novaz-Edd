@@ -19,6 +19,7 @@ For me, code is secondary; understanding the nature of reality is primary. I foc
 <h2 align="left">🚀 Vision & Mindset</h2>
  The Human Mission: My ultimate ambition is to leverage Artificial Intelligence to solve the complex problems that humanity has struggled to resolve for centuries — not just preserving life on Earth, but unlocking the keys to our existence in the universe. Cosmic Perspective: I am deeply fascinated by Astrophysics and the Science of the universe. I believe that the physics, mathematics and fundamental laws that governs the cosmos can help us understand the very fabric of reality and the events shaping our cosmos. Life & Hobbies: I love staying curious and active. You can usually find me reading about science and the cosmos, swimming to clear my head, or unwinding with a good anime. These passions keep me inspired and balanced. 
 
+
 <br>
 
 
@@ -86,6 +87,6 @@ For me, code is secondary; understanding the nature of reality is primary. I foc
 <h2 align="left">🌐 Connect with Me</h2>
 <p align="left">
   <a href="mailto:novaz.edd.me@gmail.com">
-    <img src="https://img.shields.io/badge/dev.edward.ai%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/novaz.edd.me%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
