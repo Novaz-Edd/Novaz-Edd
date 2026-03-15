@@ -25,6 +25,7 @@ For me, code is secondary; understanding the nature of reality is primary. I foc
 
 <br>
 
+
 <div align="center">
   <table width="75%">
     <tr>
