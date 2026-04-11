@@ -81,12 +81,3 @@ For me, code is secondary; understanding the nature of reality is primary. I foc
 
 <br>
 
-
-<br>
-
-<h2 align="left">🌐 Connect with Me</h2>
-<p align="left">
-  <a href="mailto:novaz.edd.me@gmail.com">
-    <img src="https://img.shields.io/badge/novaz.edd.me%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
