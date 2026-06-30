@@ -56,7 +56,6 @@ For me, code is secondary; understanding the nature of reality is primary. I foc
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🧠 Artificial Intelligence & Concepts
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF4B4B?style=for-the-badge)
