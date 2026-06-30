@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/dev-edward-ai" target="_blank">Edward</a>! 👋</h1>
+<h1 align="center">Hi there, I'm Novaz Edd! 👋</h1>
 
 <p align="center">
   I am an aspiring <b>AI & Machine Learning Engineer</b> exploring the convergence of theoretical physics and artificial general intelligence.
@@ -17,15 +17,22 @@ For me, code is secondary; understanding the nature of reality is primary. I foc
 <br>
 
 <h2 align="left">🚀 Vision & Mindset</h2>
- The Human Mission: My ultimate ambition is to leverage Artificial Intelligence to solve the complex problems that humanity has struggled to resolve for centuries — not just preserving life on Earth, but unlocking the keys to our existence in the universe. Cosmic Perspective: I am deeply fascinated by Astrophysics and the Science of the universe. I believe that the physics, mathematics and fundamental laws that governs the cosmos can help us understand the very fabric of reality and the events shaping our cosmos. Life & Hobbies: I love staying curious and active. You can usually find me reading about science and the cosmos, swimming to clear my head, or unwinding with a good anime. These passions keep me inspired and balanced. 
 
+**The Human Mission:** My ultimate ambition is to leverage Artificial Intelligence to solve the complex problems that humanity has struggled to resolve for centuries — not just preserving life on Earth, but unlocking the keys to our existence in the universe.
+
+**Cosmic Perspective:** I am deeply fascinated by Astrophysics and the Science of the universe. I believe that the physics, mathematics and fundamental laws that govern the cosmos can help us understand the very fabric of reality and the events shaping our cosmos.
+
+**Life & Hobbies:** I love staying curious and active. You can usually find me reading about science and the cosmos, swimming to clear my head, or unwinding with a good anime. These passions keep me inspired and balanced.
 
 <br>
 
+<h2 align="left">🌟 Featured Projects</h2>
 
+* **[AI Rocket Landing Simulator](#):** A physics-based machine learning environment built with PyTorch, utilizing Proximal Policy Optimization (PPO) reinforcement learning to train an autonomous landing agent from scratch.
+* **[Citadel-Chat](#):** A secure, self-hosted Retrieval-Augmented Generation (RAG) system engineered using LangChain and ChromaDB, powered by local LLMs.
+* **[Mlmodels-lab (InsightAI)](#):** A dedicated laboratory and pipeline demonstrating core machine learning architectures, data transformation techniques, and inference capabilities.
 
 <br>
-
 
 <div align="center">
   <table width="75%">
@@ -49,11 +56,7 @@ For me, code is secondary; understanding the nature of reality is primary. I foc
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🧠 Artificial Intelligence & Concepts
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF4B4B?style=for-the-badge)
@@ -76,8 +79,4 @@ For me, code is secondary; understanding the nature of reality is primary. I foc
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-<br>
-
+![Render](
