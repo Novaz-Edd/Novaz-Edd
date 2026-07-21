@@ -26,11 +26,6 @@ For me, code is secondary; understanding the nature of reality is primary. I foc
 
 <br>
 
-<h2 align="left">🌟 Featured Projects</h2>
-
-* **[AI Rocket Landing Simulator](#):** A physics-based machine learning environment built with PyTorch, utilizing Proximal Policy Optimization (PPO) reinforcement learning to train an autonomous landing agent from scratch.
-* **[Citadel-Chat](#):** A secure, self-hosted Retrieval-Augmented Generation (RAG) system engineered using LangChain and ChromaDB, powered by local LLMs.
-* **[Mlmodels-lab (InsightAI)](#):** A dedicated laboratory and pipeline demonstrating core machine learning architectures, data transformation techniques, and inference capabilities.
 
 <br>
 
